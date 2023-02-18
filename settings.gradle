@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "FoodFork"
 include ':app'
+include ':data'
+include ':domain'
+include ':food-ui'
+include ':data-android'
