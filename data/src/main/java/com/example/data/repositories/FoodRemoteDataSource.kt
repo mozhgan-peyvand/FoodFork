@@ -1,4 +1,4 @@
 package com.example.data.repositories
 
-class foodRemoteDataSource {
+class FoodRemoteDataSource {
 }
